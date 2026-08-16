@@ -4,7 +4,7 @@
 
 ## Overview
 
-This study examines how engagement with virtual idols relates to teenagers' cognition, emotional experiences, and behavioral intentions.
+This study examines how engagement with virtual idols relates to adolescents' cognitive, emotional, and behavioral outcomes.
 
 The project used a sequential mixed-methods design. Semi-structured interviews were first conducted to explore how adolescents understood and experienced virtual idols. Insights from the qualitative phase were then incorporated into a larger survey study examining several cognitive, emotional, and behavioral outcomes.
 
