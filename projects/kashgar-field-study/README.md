@@ -92,6 +92,10 @@ The planned thematic analysis focuses on:
 
 Particular attention is given to the gap between **ideal, feasible, and family-approved futures**.
 
+## My Role
+
+This is an independently designed research project. I developed the research question and conceptual framework, designed the interview protocol and elicitation activities, planned the fieldwork strategy, and will conduct and analyze the qualitative data collection.
+
 ## Research Ethics
 
 Participation is voluntary and based on informed consent.
