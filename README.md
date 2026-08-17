@@ -46,3 +46,15 @@ The research uses retrospective career timelines, semi-structured interviews, oc
 ## Research Ethics
 
 Participant-level interview and survey data are not publicly shared. Materials involving human participants are presented only in summarized or de-identified form to protect privacy and confidentiality.
+---
+
+### 3. Data Analysis PTA
+**Data Analysis and Technical Research Experience | Completed**
+
+A practical data-analysis experience focused on public-data collection, data cleaning, automation, and exploratory quantitative analysis.
+
+The work involved collecting and organizing structured information from public web sources, working with APIs and web-based data, and processing formats including JSON, XML, and HTML. I also gained experience using **Python, JavaScript, Git, and GitHub** for data-related workflows, as well as conducting exploratory and statistical analysis on structured datasets.
+
+This experience strengthened my ability to work with messy real-world data, independently learn unfamiliar technical tools, and translate analytical questions into reproducible data-processing workflows. It complements my sociological research background by providing practical experience in data acquisition, organization, and quantitative analysis.
+
+[View project summary](projects/data-analysis-pta/README.md)
